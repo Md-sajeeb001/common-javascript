@@ -16,4 +16,4 @@ const intructor = [
 ];
 
 const senior = intructor.filter((p) => p.position === 'senior');
-console.log(senior);
+// console.log(senior);
